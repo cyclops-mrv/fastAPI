@@ -1,4 +1,4 @@
-# FastAPI FullStack Example
+# FastAPI FullStack
 
 [FastAPI](https://fastapi.tiangolo.com/) server with [PostgreSQL](https://www.postgresql.org/) as backend.
 
