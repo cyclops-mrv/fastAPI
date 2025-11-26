@@ -1,13 +1,3 @@
----
-title: FastAPI
-description: A FastAPI server
-tags:
-  - fastapi
-  - uvicorn
-  - python
-  - postgresql
----
-
 # FastAPI FullStack Example
 
 [FastAPI](https://fastapi.tiangolo.com/) server with [PostgreSQL](https://www.postgresql.org/) as backend.
